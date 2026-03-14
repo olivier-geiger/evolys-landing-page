@@ -1,0 +1,305 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "download": "Obtenir l'app"
+  },
+  "hero": {
+    "title": "Tes habitudes.",
+    "titleAccent": "Sans pression.",
+    "subtitle": "Un suivi simple, des séries motivantes, une approche bienveillante. Construis des habitudes durables à ton rythme — sans compte.",
+    "cta": "Télécharger sur l'App Store",
+    "ctaSecondary": "Découvrir pourquoi"
+  },
+  "features": {
+    "title": "Pensée différemment",
+    "subtitle": "Chaque détail pensé pour que tu te concentres sur la progression, pas la perfection.",
+    "project": {
+      "title": "Des habitudes qui tiennent",
+      "text": "Construis des routines durables avec un suivi flexible. Un check-in à la fois — ton rythme, tes règles."
+    },
+    "task": {
+      "title": "Check-in rapide avec humeur",
+      "text": "Enregistre tes progrès en quelques secondes. Ajoute ton humeur (5 niveaux) et une note optionnelle. Rappels personnalisables par jour et heure."
+    },
+    "note": {
+      "title": "À ton image",
+      "text": "Icônes (SF Symbols) et palette de couleurs pour chaque habitude. Descriptions et affirmations personnalisées. Thème clair ou sombre."
+    },
+    "graph": {
+      "title": "Vois tes progrès",
+      "text": "Nombre de check-ins, moyenne par jour, plus longue série, taux de complétion. Des stats claires pour garder le cap. Premium débloque tout le détail."
+    },
+    "style": {
+      "title": "Un jour manqué ne fait pas tout recommencer",
+      "text": "Le mode vacances te permet de mettre une habitude en pause sans casser ta série. Chez Evolys, la progression compte plus que la perfection."
+    },
+    "sync": {
+      "title": "Partout où tu es",
+      "text": "iPhone, iPad, Mac — tes habitudes synchronisées via iCloud. Widgets écran d'accueil et Lock Screen. Export de tes données en CSV."
+    }
+  },
+  "pricing": {
+    "title": "Investis dans ta routine",
+    "subtitle": "Commence gratuit avec 3 habitudes. Débloque tout quand tu es prêt.",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "free": {
+      "name": "Gratuit",
+      "price": "0",
+      "description": "Suffisant pour ancrer de vraies habitudes",
+      "cta": "Commencer gratuitement",
+      "features": [
+        "Jusqu'à 3 habitudes",
+        "Check-in rapide avec humeur & note",
+        "Calendrier (vue semaine ou mois)",
+        "Stats de base : séries & complétion",
+        "Synchronisation iCloud"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "badge": "Full power",
+      "monthlyPrice": "6.99",
+      "yearlyPrice": "22.99",
+      "yearlySaving": "Meilleur rapport qualité-prix à l'année",
+      "description": "Habitudes illimitées, insights détaillés",
+      "cta": "Tout débloquer",
+      "includes": "GRATUIT+",
+      "features": [
+        "Habitudes illimitées",
+        "Stats détaillées, graphiques & heatmap",
+        "Insights personnalisés & tendances",
+        "Mode vacances pour préserver tes séries",
+        "Widgets, export CSV, chaque future fonctionnalité"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Questions ?",
+    "subtitle": "Réponses cash. Sans détour.",
+    "items": [
+      {
+        "question": "Evolys est-il vraiment gratuit ?",
+        "answer": "Oui. Télécharge et suis jusqu'à 3 habitudes gratuitement — sans compte, sans carte. Sync, rappels et stats de base inclus. Premium, c'est pour les habitudes illimitées et les analytics complets."
+      },
+      {
+        "question": "Dois-je créer un compte ?",
+        "answer": "Non. Zéro compte, zéro inscription. Ouvre l'app et commence. Tes données restent sur ton appareil et, si tu l'actives, dans ton iCloud privé. On ne les voit jamais."
+      },
+      {
+        "question": "Comment fonctionne la synchronisation ?",
+        "answer": "Evolys utilise CloudKit d'Apple — la même tech qu'iCloud. Active-la une fois, et tes habitudes restent synchronisées sur tous tes appareils Apple. Ça marche, c'est tout."
+      },
+      {
+        "question": "Mes données sont-elles privées ?",
+        "answer": "Totalement. Aucun tracker, aucune analytics, aucune revente. Tes habitudes et check-ins sont stockés localement et dans ton iCloud. On ne peut pas y accéder. La vie privée est un principe, pas une option."
+      },
+      {
+        "question": "Puis-je annuler Premium à tout moment ?",
+        "answer": "Oui. Annule quand tu veux depuis les réglages d'abonnement de l'App Store. Sans culpabilité. Premium reste actif jusqu'à la fin de ta période en cours."
+      },
+      {
+        "question": "Quels appareils sont compatibles ?",
+        "answer": "iPhone et iPad (iOS 26+). Tes habitudes se synchronisent sur tous tes appareils Apple."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Parlons-en",
+    "subtitle": "Bug, idée de fonctionnalité, ou juste envie de dire que vous adorez l'app ? On lit chaque message.",
+    "name": "Nom",
+    "email": "E-mail",
+    "subject": "Sujet",
+    "message": "Message",
+    "send": "Envoyer",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé ! Nous vous répondrons bientôt.",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "errors": {
+      "nameRequired": "Veuillez entrer votre nom",
+      "emailInvalid": "Veuillez entrer un email valide",
+      "subjectRequired": "Veuillez entrer un sujet",
+      "messageRequired": "Le message doit contenir au moins 10 caractères"
+    }
+  },
+  "downloadCta": {
+    "title": "Prêt à ancrer de meilleures habitudes ?",
+    "subtitle": "Télécharge Evolys gratuitement et suis ta routine sans la pression.",
+    "note": "Gratuit sur iOS. Aucun compte requis."
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "terms": "CGU",
+    "privacy": "Confidentialité",
+    "contact": "Contact",
+    "madeBy": "Conçu par"
+  },
+  "terms": {
+    "title": "Conditions Générales d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : 7 janvier 2026",
+    "intro": "En utilisant l'application Evolys, vous acceptez ces Conditions Générales d'Utilisation. Veuillez les lire attentivement avant d'utiliser l'application.",
+    "sections": [
+      {
+        "title": "1. Accès à l'application",
+        "text": "L'application est disponible en téléchargement sur l'App Store pour les appareils iOS. Les fonctionnalités de base sont gratuites et utilisables sans création de compte."
+      },
+      {
+        "title": "2. Abonnement Premium",
+        "text": "Evolys propose des fonctionnalités premium optionnelles via des abonnements à renouvellement automatique :",
+        "list": [
+          "Evolys Premium Hebdomadaire : Accès à toutes les fonctionnalités premium pendant une semaine",
+          "Evolys Premium Mensuel : Accès à toutes les fonctionnalités premium pendant un mois",
+          "Evolys Premium Annuel : Accès à toutes les fonctionnalités premium pendant un an à tarif réduit",
+          "Evolys Premium À vie : Achat unique pour un accès permanent"
+        ],
+        "extra": "Détails de l'abonnement :",
+        "extraList": [
+          "Le paiement sera débité de votre compte Apple ID lors de la confirmation de l'achat",
+          "L'abonnement se renouvelle automatiquement sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période en cours",
+          "Votre compte sera débité pour le renouvellement dans les 24 heures précédant la fin de la période en cours",
+          "Vous pouvez gérer et annuler vos abonnements dans les réglages de votre compte App Store après l'achat",
+          "Toute partie non utilisée d'une période d'essai gratuite, si proposée, sera perdue lors de la souscription à un abonnement"
+        ]
+      },
+      {
+        "title": "3. Propriété intellectuelle",
+        "text": "Tout le contenu, le code source, les designs et les visuels de Evolys sont la propriété exclusive du développeur. Toute reproduction, modification ou distribution non autorisée est strictement interdite."
+      },
+      {
+        "title": "4. Utilisation interdite",
+        "text": "Vous vous engagez à ne pas :",
+        "list": [
+          "Décompiler, faire de l'ingénierie inverse ou modifier l'application",
+          "Utiliser l'application à des fins illégales, nuisibles ou non autorisées",
+          "Tenter d'accéder aux données d'un autre utilisateur ou interférer avec le fonctionnement de l'application"
+        ]
+      },
+      {
+        "title": "5. Limitation de responsabilité",
+        "text": "Dans la limite permise par la loi, nous ne sommes pas responsables de :",
+        "list": [
+          "La perte de données due à des problèmes de synchronisation iCloud ou à des défaillances d'appareils",
+          "Les dysfonctionnements, interruptions ou indisponibilités temporaires de l'application",
+          "Tout dommage indirect, accessoire ou consécutif résultant de votre utilisation de l'application"
+        ]
+      },
+      {
+        "title": "6. Modifications",
+        "text": "Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout moment. L'utilisation continue de l'application après les modifications constitue une acceptation des nouvelles conditions."
+      },
+      {
+        "title": "7. Droit applicable",
+        "text": "Ces conditions sont régies par le droit français. Tout litige sera soumis à la compétence exclusive des tribunaux français."
+      },
+      {
+        "title": "8. Contact",
+        "text": "Pour toute question concernant ces Conditions d'Utilisation, veuillez nous contacter à : contact@evolys.fr ou via le formulaire de contact sur notre site web."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : 1er mars 2026",
+    "intro": "Cette Politique de Confidentialité explique comment Evolys (« nous », « notre » ou « nos ») collecte, utilise et protège vos informations lorsque vous utilisez notre application mobile.",
+    "sections": [
+      {
+        "title": "1. Introduction",
+        "text": "Cette Politique de Confidentialité explique comment Evolys (« nous », « notre » ou « nos ») collecte, utilise et protège vos informations lorsque vous utilisez notre application mobile."
+      },
+      {
+        "title": "2. Collecte d'Informations",
+        "text": "Nous accordons la priorité à votre vie privée et respectons les normes de confidentialité d'Apple. Evolys collecte et stocke les informations suivantes :",
+        "list": [
+          "Données d'Habitudes : Les noms de vos habitudes, vos enregistrements de completion (check-in), humeurs et notes associées, rappels et statistiques de progression sont stockés localement sur votre appareil.",
+          "Données de Synchronisation iCloud : Si activée, vos données d'habitudes sont synchronisées entre vos appareils via le service iCloud d'Apple.",
+          "Notifications Locales : Vos préférences de rappel sont stockées localement pour vous envoyer des notifications d'habitudes.",
+          "Données d'Abonnement : Votre statut premium (actif/inactif) et la date d'achat sont stockés localement sur votre appareil. Tous les paiements sont gérés directement par Apple via l'App Store.",
+          "Widgets : Les widgets d'écran d'accueil affichent vos habitudes (noms, séries, statut du jour) et le statut premium à partir des données déjà stockées sur l'appareil. Aucune donnée supplémentaire n'est collectée ; l'application et l'extension widget partagent ces données uniquement sur votre appareil via les App Groups d'Apple.",
+          "Analytics (TelemetryDeck) : Des signaux anonymisés sont envoyés pour mesurer l'utilisation de l'application (ex. écrans consultés, actions effectuées). Seuls des paramètres non personnels sont transmis (ex. statut premium, nombre d'habitudes). Aucun nom d'habitude, contenu de check-in, e-mail ou identifiant personnel n'est envoyé."
+        ]
+      },
+      {
+        "title": "3. Utilisation des Informations",
+        "text": "Suivi d'Habitudes : Toutes les données sont utilisées exclusivement pour fournir les fonctionnalités de suivi d'habitudes, calculer les statistiques et afficher votre progression.",
+        "list": [
+          "Rappels : Les préférences de notification sont utilisées pour envoyer des rappels locaux aux horaires que vous avez choisis.",
+          "Gestion Premium : Le statut d'abonnement est utilisé pour déverrouiller les fonctionnalités premium (habitudes illimitées, export, mode vacances, etc.) et l'accès au contenu des widgets.",
+          "Widgets : Les données affichées dans les widgets (habitudes, séries, coches) proviennent du même stockage local ou iCloud ; le statut premium est partagé avec l'extension widget sur l'appareil pour afficher ou non le contenu."
+        ]
+      },
+      {
+        "title": "4. Stockage et Sécurité des Données",
+        "text": "Vos données sont protégées comme suit :",
+        "list": [
+          "Stockage Local : Toutes vos données d'habitudes sont stockées de manière sécurisée sur votre appareil en utilisant SwiftData, le framework de stockage sécurisé d'Apple.",
+          "App Groups : Pour permettre l'affichage des widgets, l'application et l'extension widget utilisent un conteneur partagé (App Group) sur votre appareil. Les données restent sur l'appareil ; seul le statut premium (actif/inactif) et les données nécessaires à l'affichage des widgets sont accessibles par l'extension, sans transmission à des serveurs.",
+          "Synchronisation iCloud : Lorsqu'elle est activée, les données sont synchronisées via iCloud en utilisant les standards de chiffrement d'Apple. Nous n'avons pas accès à vos données iCloud.",
+          "Aucun Stockage Serveur : Nous ne stockons aucune de vos données personnelles sur des serveurs externes.",
+          "Chiffrement : Toutes les données sont chiffrées sur votre appareil et dans iCloud."
+        ]
+      },
+      {
+        "title": "5. Partage de Données",
+        "text": "Nous ne vendons ni ne partageons vos données d'habitudes personnelles (noms d'habitudes, check-ins, humeurs, notes) avec des tiers. Ces données restent sur votre appareil et dans votre compte iCloud.",
+        "extra": "TelemetryDeck (analytics) : L'application utilise TelemetryDeck pour comprendre comment l'application est utilisée (par ex. quels écrans sont ouverts, quelles actions sont effectuées). Les données envoyées sont anonymisées et non identifiantes : noms de signaux (ex. « Écran ouvert », « Habitude créée »), paramètres agrégés (ex. nombre d'habitudes, statut premium oui/non). Aucun identifiant utilisateur, adresse e-mail, nom ou contenu de vos habitudes n'est transmis. TelemetryDeck est conforme au RGPD et ne permet pas de vous identifier personnellement. Pour plus d'informations : Politique de confidentialité TelemetryDeck."
+      },
+      {
+        "title": "6. Vos Droits et Contrôle des Données",
+        "list": [
+          "Propriété des Données : Vous avez un contrôle total sur vos données à tout moment.",
+          "Accès aux Données : Toutes vos données sont visibles directement dans l'application.",
+          "Export des Données : Vous pouvez exporter vos données d'habitudes au format CSV depuis Réglages → Exporter mes données (fonctionnalité Pro).",
+          "Suppression des Données : Vous pouvez supprimer des habitudes individuelles ou toutes les données directement depuis l'application. Les données supprimées sont définitivement retirées de votre appareil et d'iCloud.",
+          "Contrôle iCloud : Vous pouvez activer ou désactiver la synchronisation iCloud dans les réglages de votre appareil à tout moment.",
+          "Widgets : Vous pouvez retirer les widgets à tout moment depuis l'écran d'accueil ; les données partagées avec l'extension ne sont plus utilisées par celle-ci.",
+          "Analytics : Les données envoyées à TelemetryDeck sont anonymisées et ne permettent pas de vous identifier. Vous pouvez consulter la politique de TelemetryDeck pour plus de détails."
+        ]
+      },
+      {
+        "title": "7. Confidentialité des Enfants",
+        "text": "Evolys ne collecte pas sciemment d'informations personnelles auprès d'enfants de moins de 13 ans. L'application est conçue pour être sûre pour tous les âges car elle ne stocke que des données liées aux habitudes localement sur l'appareil de l'utilisateur et ne nécessite aucune authentification."
+      },
+      {
+        "title": "8. Services Tiers",
+        "text": "Evolys utilise les services suivants :",
+        "list": [
+          "iCloud (Apple) : Pour synchroniser vos données d'habitudes entre vos appareils Apple de manière sécurisée et chiffrée.",
+          "App Store / StoreKit (Apple) : Pour les achats in-app et abonnements. Tous les paiements sont gérés par Apple. Nous ne recevons aucune information de carte bancaire.",
+          "TelemetryDeck : Service d'analytics respectueux de la vie privée. Nous envoyons uniquement des signaux anonymisés (ex. « écran affiché », « habitude créée ») et des paramètres non personnels (ex. statut premium, nombre d'habitudes). Aucune donnée personnelle ni contenu de vos habitudes n'est transmis. Politique de confidentialité TelemetryDeck.",
+          "Extensions Widget (Apple) : Les widgets d'écran d'accueil sont fournis par une extension de l'application. Ils lisent uniquement les données déjà présentes sur l'appareil (via App Group) pour les afficher ; aucune donnée n'est envoyée à des serveurs."
+        ],
+        "extra": "Aucun service de publicité ni de suivi comportemental à des fins publicitaires n'est intégré. Gestion des Abonnements : Tous les achats in-app et abonnements sont gérés directement par Apple via l'App Store. Les informations de transaction sont traitées par Apple selon leur politique de confidentialité."
+      },
+      {
+        "title": "9. Sécurité des Données",
+        "text": "Nous prenons la sécurité de vos données très au sérieux :",
+        "list": [
+          "Utilisation des frameworks de sécurité d'Apple (SwiftData, CloudKit)",
+          "Chiffrement de bout en bout via iCloud",
+          "Aucune transmission de données vers nos serveurs",
+          "Validation locale des abonnements (StoreKit)",
+          "Partage des données avec les widgets uniquement sur l'appareil (App Groups)"
+        ]
+      },
+      {
+        "title": "10. Utilisateurs Internationaux",
+        "text": "Evolys stocke vos données dans votre compte iCloud personnel, qui suit les politiques de stockage de données mondiales d'Apple. Vos données d'habitudes personnelles ne quittent jamais l'écosystème Apple (appareil et iCloud)."
+      },
+      {
+        "title": "11. Modifications de cette Politique",
+        "text": "Nous pouvons mettre à jour cette Politique de Confidentialité si nécessaire pour refléter les changements dans l'application ou les exigences légales. Tout changement sera publié ici avec une date d'entrée en vigueur mise à jour. Les changements significatifs seront communiqués via l'application."
+      },
+      {
+        "title": "12. Nous Contacter",
+        "text": "Si vous avez des questions ou des préoccupations concernant cette Politique de Confidentialité, veuillez nous contacter à : Email : olivier.codes@gmail.com"
+      },
+      {
+        "title": "13. Votre Consentement",
+        "text": "En utilisant Evolys, vous consentez à la collecte et à l'utilisation des informations telles que décrites dans cette Politique de Confidentialité."
+      }
+    ]
+  }
+}

@@ -30,7 +30,7 @@ export function Pricing() {
           </h2>
 
           {/* Toggle */}
-          <div className="mt-6 flex items-center justify-center gap-3">
+          {/* <div className="mt-6 flex items-center justify-center gap-3">
             <span
               className={`text-sm font-medium transition-colors ${!isYearly ? "text-text-primary" : "text-text-muted"}`}
             >
@@ -54,7 +54,7 @@ export function Pricing() {
             >
               {t("yearly")}
             </span>
-          </div>
+          </div> */}
         </motion.div>
 
         {/* Cards grid */}
@@ -79,7 +79,7 @@ export function Pricing() {
                 {t("free.price")}€
               </span>
               <span className="text-text-muted text-sm">
-                /{(t.raw("monthly") as string).toLowerCase()}
+                {(t.raw("monthly") as string).toLowerCase()}
               </span>
             </div>
 
@@ -140,7 +140,6 @@ export function Pricing() {
                   €
                 </span>
                 <span className="text-text-muted text-sm">
-                  /
                   {isYearly
                     ? (t.raw("yearly") as string).toLowerCase()
                     : (t.raw("monthly") as string).toLowerCase()}

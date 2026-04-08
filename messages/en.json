@@ -43,8 +43,8 @@
   },
   "pricing": {
     "title": "Invest in your routine",
-    "subtitle": "Start free with 3 habits. Unlock your full potential when you're ready.",
-    "monthly": "Monthly",
+    "subtitle": "Start free with 2 habits. Unlock your full potential when you're ready.",
+    "monthly": "",
     "yearly": "Yearly",
     "free": {
       "name": "Free",
@@ -52,7 +52,7 @@
       "description": "Enough to build real habits",
       "cta": "Get started free",
       "features": [
-        "Up to 3 habits",
+        "Up to 2 habits",
         "Quick check-in with mood & note",
         "Calendar (week or month view)",
         "Basic stats: streaks & completion",
@@ -60,14 +60,14 @@
       ]
     },
     "premium": {
-      "name": "Premium",
+      "name": "Evolys+",
       "badge": "Full power",
-      "monthlyPrice": "6.99",
+      "monthlyPrice": "9.99",
       "yearlyPrice": "22.99",
       "yearlySaving": "Best value — save with yearly",
       "description": "Unlimited habits, deep insights",
       "cta": "Unlock everything",
-      "includes": "FREE+",
+      "includes": "One-time payment",
       "features": [
         "Unlimited habits",
         "Detailed stats, charts & heatmap",
